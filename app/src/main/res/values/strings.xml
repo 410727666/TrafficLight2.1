@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">紅綠燈(陳映諭)</string>
+    <string name="start">開始遊戲</string>
+    <string name="end">結束系統</string>
+    <string name="a1">請輸入綠燈秒數</string>
+    <string name="a2">請輸入黃燈秒數</string>
+    <string name="a3">請輸入紅燈秒數</string>
+</resources>
